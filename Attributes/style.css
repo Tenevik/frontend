@@ -1,0 +1,32 @@
+body {
+	background-color: yellow ;
+}
+h1 {
+	width: 190px; 
+	height: 35px;
+	background-color: yellow;
+	color: red;
+	background-color: black;
+}
+h2 {
+	color:green;
+}
+h3 {
+	color:orange;
+}
+a {
+	color: orange;
+	text-decoration: none;
+}
+#h1_1 {
+	color: blue;
+}
+#h1_2 {
+	color: orange;
+}
+#h2_1 {
+	color: grey;
+}
+#p1_1 {
+	color: green;
+}
