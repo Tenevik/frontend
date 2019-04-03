@@ -1,4 +1,11 @@
-body 
+body {
+	background-image: url(../../../../image11.jpg);
+	background-repeat: repeat-x;
+	background-size: 1600px 900px;
+	background-position: center;
+	background-attachment: fixed;
+	box-sizing: url(../../../../image11) repeat-x fixed center;
+}
 .container{
 	text-align: center;
 }
@@ -37,4 +44,11 @@ body
 	margin-right:50px;
 	margin-left:50px;
 }
+.content3 {
+	background-color: rgba(100,255,255,0.5)
+}
+#heading_1 {
+	background-color: green
+}
 
+	
