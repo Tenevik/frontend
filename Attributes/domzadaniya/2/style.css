@@ -50,5 +50,25 @@ body {
 #heading_1 {
 	background-color: green
 }
-
-	
+.container .content ul li {
+	color:yellow;
+}
+.dog {
+	font-size: 24px;
+}
+.cat {
+	background-color: orange;
+}
+.lack {
+	text-align: center;
+}
+.rich {
+	color: white;
+}
+.neighbour h1+p {
+	color: brown;
+	background-color: red;
+}
+.neighbour h1~p {
+	color:yellow;
+}

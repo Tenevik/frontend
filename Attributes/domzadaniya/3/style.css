@@ -1,9 +1,6 @@
 body{
-	background-image: url(image1.jpg);
-	background-repeat: repeat-x repeat-x;
 	background-size:300px 300px;
-	background-position: bottom-left;
-	background-attachment: fixed;
+	background: url(image1.jpg) rgba(100, 200, 255, 255) repeat-x fixed bottom left;
 }
 .block {
 	border: 1px solid red;
